@@ -137,6 +137,7 @@ export default {
       position: absolute;
       transform: rotate(-60deg);
       margin-left: -5px;
+      
   }
   /* 偶数行偏移 */
   .evenOffSet{
